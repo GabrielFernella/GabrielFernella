@@ -1,18 +1,7 @@
-
-
 <div align="center">
-
-
-   <div width="100%"; height="100%" style="background-image: url('https://github.com/GabrielFernella/GabrielFernella/blob/master/assets/Finalgif.gif?raw=true');" >
-
-   <img src="https://avatars2.githubusercontent.com/u/39594204?s=460&u=c3395abbd7a4c831add26f21eae655454fe34b2f&v=4" width="200px" border-radius="50%" alt="Author"
-      style="border-radius: 50%; margin-top: 20px; border: 1px solid black; margin: 50px
-      "/>
-   </div>
    
-
+   <img src="https://github.com/GabrielFernella/GabrielFernella/blob/master/assets/Screenshot_1.png?raw=true" width="100%" height="100%" alt="Back" />
    
-
    # Gabriel Fernella
  
 [![Linkedin Badge](https://img.shields.io/badge/-Gabriel_Fernella-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Gabriel_Fernella/)](https://www.linkedin.com/in/gabriel-fernella-a486b91a6/)
@@ -30,4 +19,5 @@ Trabalho em uma escola técnica como Auxiliar/Professor de Informática, já mex
 React, React Native, Node, Java e outros...
 
 </div>
+
 
