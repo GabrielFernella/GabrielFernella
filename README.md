@@ -1,6 +1,6 @@
 <div align="center">
    
-   <img src="https://github.com/GabrielFernella/GabrielFernella/blob/master/assets/Finalgif.gif?raw=true" width="100%" height="150px" alt="Back" />
+   <img src="https://github.com/GabrielFernella/GabrielFernella/blob/master/assets/Screenshot_1.png?raw=true" width="100%" height="100%" alt="Back" />
    
    # Gabriel Fernella
  
