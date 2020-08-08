@@ -1,14 +1,8 @@
 
 
 <div align="center">
-
-
-   <div width="100%"; height="100%" style="background-image: url('https://github.com/GabrielFernella/GabrielFernella/blob/master/assets/Finalgif.gif?raw=true');" >
-
-   </div>
    
-
-   
+   <img src="https://github.com/GabrielFernella/GabrielFernella/blob/master/assets/Finalgif.gif?raw=true" width="100%" height="400px" border-radius="50%" alt="Author" "/>
 
    # Gabriel Fernella
  
