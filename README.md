@@ -1,7 +1,7 @@
 
 
 <div align="center">
-   <img src="./assets/Finalgif.gif" width="100%"  alt="Author" "/>
+   <img src="./assets/Finalgif.gif" width="100%" height="200px"  alt="Author" "/>
 
 
    [![Linkedin Badge](https://img.shields.io/badge/-Gabriel_Fernella-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Gabriel_Fernella/)](https://www.linkedin.com/in/gabriel-fernella-a486b91a6/)
