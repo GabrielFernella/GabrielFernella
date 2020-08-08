@@ -2,7 +2,7 @@
 
 <div align="center">
    
-   <img src="https://github.com/GabrielFernella/GabrielFernella/blob/master/assets/Finalgif.gif?raw=true" width="100%" height="400px" border-radius="50%" alt="Author" "/>
+   <img src="https://github.com/GabrielFernella/GabrielFernella/blob/master/assets/Finalgif.gif?raw=true" width="800px" height="400px" alt="Back" "/>
 
    # Gabriel Fernella
  
