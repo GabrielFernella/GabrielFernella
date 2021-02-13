@@ -1,6 +1,6 @@
 <div align="center">
 
-   <img src="https://github.com/GabrielFernella/GabrielFernella/blob/master/assets/fireDev.gif?raw=true" width="100%" height="200px" alt="Back" />
+   <img src="https://github.com/GabrielFernella/GabrielFernella/blob/master/assets/fireDev.gif?raw=true" width="100%" height="350px" alt="Back" />
 
 # Gabriel Fernella
 
